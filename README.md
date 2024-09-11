@@ -1,4 +1,4 @@
-# android-music-app
+# Android Music App
 The purpose of this project was to create an app that would allow the user to organize and play mp3 files. The functionality was intended to be similar to popular alternatives such as Spotify, Pandora, or Apple Music, however these existing alternatives host several undesirable features regarding song licensing, offline capabilities, collection of user data, or subscription fees. My app was intended to be offline-only, and eliminate these undesirable features. I also have a personal stake in this project and wanted to create something I would be able to use daily.
 
 The basic functionalities of the app include the ability to add create playlists, add songs to playlists from the filesystem or another playlist, edit or delete songs within each playlist, and edit or delete the playlists themselves. Finally, each playlist should have controls for playback, including play/pause, skip to next or previous track, shuffle playlist, and loop playlist.
